@@ -1,1 +1,1 @@
-Hiii guys,I am Guna Dermawan,students of Dian Nuswantoro University Semarang,i am also have youtube channel,you can visit in this link : youtube.com/GunaDermawan.
+hi,Guna Dermawan yang bisa di panggi Gunder adalah seorang Mahasiswa Teknik Informatika Universitas Dian Nuswantoro Semarang,Mempunyai Hobi Olahraga yang menurutnya bisa menyenangkan dan membuatnya punya ide untuk keperluan programming nya,Gunder biasa membuat video di Youtube sebagai ajang berbagi kepada dunia tentang dunia programming yang diketahuinya :)
