@@ -1,1 +1,4 @@
-hi,Guna Dermawan yang bisa di panggi Gunder adalah seorang Mahasiswa Teknik Informatika Universitas Dian Nuswantoro Semarang,Mempunyai Hobi Olahraga yang menurutnya bisa menyenangkan dan membuatnya punya ide untuk keperluan programming nya,Gunder biasa membuat video di Youtube sebagai ajang berbagi kepada dunia tentang dunia programming yang diketahuinya :)
+Halo!  
+Perkenalkan, Saya Guna Dermawan  
+Saya seorang Android developer dan python OpenCV enthusiasts  
+
