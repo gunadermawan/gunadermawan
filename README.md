@@ -8,10 +8,9 @@ Saya seorang mahasiswa teknik informatika strata satu (S-1), saya memiliki keter
 - 👀 I’m interested in Algorith, Web Development, Mobile Application, Machine Learning
 - 🌱 I’m currently learning about Mobile Apps (Android) and Machine Learning
 - 💬 Feel free to ask me about web development or anything
-- 📫 How to reach me: <a href="mailto:reski.mulud@gmail.com">reski.mulud@gmail.com</a>
+- 📫 How to reach me: <a href="mailto:gunadermawan.official@gmail..com">gunadermawan.official.com</a>
 
-  <a href="https://reskimulud.my.id" target="_blank"><img align="left" alt="reskimulud.my.id" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
-  <a href="https://https://www.linkedin.com/in/reski-mulud-muchamad-9a44b41ab/" target="_blank"><img align="left" alt="Reski Mulud Muchamad | LinkedIn" width="22px" src="https://github.com/reski-mulud-muchamad/reski-mulud-muchamad/blob/main/logo-svg/linkedin-icon.svg" />
+  <a href="https://www.linkedin.com/in/guna-d-57554212b/" target="_blank"><img align="left" alt="Guna Dermawan | LinkedIn" width="22px" src="https://github.com/reski-mulud-muchamad/reski-mulud-muchamad/blob/main/logo-svg/linkedin-icon.svg" />
   <a href="https://github.com/reski-mulud-muchamad" target="_blank"><img align="left" alt="Reski Mulud Muchamad | GitHub" width="22px" src="https://github.com/reski-mulud-muchamad/reski-mulud-muchamad/blob/main/logo-svg/github-icon.svg" />
   <a href="https://facebook.com/reski.muchamad" target="_blank"><img align="left" alt="Reski Mulud Muchamad | Facebook" width="22px" src="https://github.com/reski-mulud-muchamad/reski-mulud-muchamad/blob/main/logo-svg/facebook.svg" />
   <a href="https://instagram.com/reskimulud" target="_blank"><img align="left" alt="Reski Mulud Muchamad | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
