@@ -16,13 +16,4 @@ Saya seorang mahasiswa teknik informatika strata satu (S-1), saya memiliki keter
   <a href="https://t.me/gunadermawan" target="_blank"><img align="left" alt="Guna Dermawan | Telegram" width="22px" src="https://github.com/reski-mulud-muchamad/reski-mulud-muchamad/blob/main/logo-svg/telegram.svg" />
   <br>
   <br>
-  
-
-### Tech Stack
-  <a href="https://w3.org/TR/html5/" target="_blank"><img align="left" alt="HTML" title="HTML" width="21px" src="https://github.com/reski-mulud-muchamad/reski-mulud-muchamad/blob/main/logo-svg/html-5.svg" /></a>
-  <a href="https://w3.org/TR/css/" target="_blank"><img align="left" alt="CSS" title="CSS" width="21px" src="https://github.com/reski-mulud-muchamad/reski-mulud-muchamad/blob/main/logo-svg/css-3.svg" /></a>
-  <a href="https://php.net/" target="_blank"><img align="left" alt="PHP" title="PHP" width="21px" src="https://github.com/reski-mulud-muchamad/reski-mulud-muchamad/blob/main/logo-svg/php.svg" /></a>
-    
-  <br>
-  <br>
-  
+ 
