@@ -6,7 +6,7 @@ Saya seorang mahasiswa teknik informatika strata satu (S-1), saya memiliki keter
 
 - 🌱 Saya senang belajar tentnag Mobile Apps (Android) dan OpenCV Python
 - 💬 boleh discuss tentang pemrograman mobile (Android) ataupun OpenCV Python :)
-- 📫 How to reach me: <a href="mailto:gunadermawan.official@gmail..com">gunadermawan.official.com</a>
+- 📫 Kenalan yuk: <a href="mailto:gunadermawan.official@gmail..com">gunadermawan.official.com</a>
 
   <a href="https://www.linkedin.com/in/guna-d-57554212b/" target="_blank"><img align="left" alt="Guna Dermawan | LinkedIn" width="22px" src="https://github.com/reski-mulud-muchamad/reski-mulud-muchamad/blob/main/logo-svg/linkedin-icon.svg" />
   <a href="https://github.com/gunadermawan" target="_blank"><img align="left" alt="Guna Dermawan | GitHub" width="22px" src="https://github.com/reski-mulud-muchamad/reski-mulud-muchamad/blob/main/logo-svg/github-icon.svg" />
