@@ -21,8 +21,7 @@ Saya seorang mahasiswa teknik informatika strata satu (S-1), saya memiliki keter
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gunadermawan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gunadermawan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-Pengunjung
-==
+      Visitor
 <img align="center" src = "https://profile-counter.glitch.me/gunadermawan/count.svg" alt ="Loading">
 </p>
  
