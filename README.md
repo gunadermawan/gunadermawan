@@ -15,6 +15,9 @@ Saya seorang mahasiswa teknik informatika strata satu (S-1), saya memiliki keter
   <a href="mailto:gunadermawan.official@gmail..com" target="_blank"><img align="left" alt="Hubungi Saya" width="22px" src="https://github.com/reski-mulud-muchamad/reski-mulud-muchamad/blob/main/logo-svg/google-gmail.svg" /></a>
   <a href="https://t.me/gunadermawan" target="_blank"><img align="left" alt="Guna Dermawan | Telegram" width="22px" src="https://github.com/reski-mulud-muchamad/reski-mulud-muchamad/blob/main/logo-svg/telegram.svg" />
   <br>
+  
+Visitor
+<img align="center" src = "https://profile-counter.glitch.me/gunadermawan/count.svg" alt ="Loading">
   <br>
     <p align="left">
 <a href="https://github.com/gunadermawan">
@@ -22,6 +25,4 @@ Saya seorang mahasiswa teknik informatika strata satu (S-1), saya memiliki keter
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gunadermawan&layout=compact&langs_count=8&theme=algolia"/>
 </a>  
 </p>
-          Visitor Profile
-<img align="center" src = "https://profile-counter.glitch.me/gunadermawan/count.svg" alt ="Loading">
  
