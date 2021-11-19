@@ -4,7 +4,7 @@
 
 Saya seorang mahasiswa teknik informatika strata satu (S-1), saya memiliki ketertarikan di dunia teknologi seperti pemrograman, gadgets, dan konten yang membahas tentang teknologi.
 
-- 🌱 Saya senang belajar tentnag Mobile Apps (Android) dan OpenCV Python
+- 🌱 Saya senang belajar tentang Mobile Apps (Android) dan OpenCV Python
 - 💬 boleh discuss tentang pemrograman mobile (Android) ataupun OpenCV Python :)
 - 📫 Kenalan yuk: <a href="mailto:gunadermawan.official@gmail..com">gunadermawan.official.com</a>
 
