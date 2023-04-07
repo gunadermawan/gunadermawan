@@ -1,12 +1,6 @@
-### Hi there! 👋
+![Banner LinkedIn Hitam Grid Bentuk 2D](https://user-images.githubusercontent.com/53375007/230648675-ed05a75a-fd34-4461-96ba-49cc7fff7cac.png)
 
-![img](https://user-images.githubusercontent.com/53375007/127773721-eeecd5be-ea75-42cd-9b08-3e755cb5fc9d.png)
-
-Saya seorang mahasiswa teknik informatika strata satu (S-1), saya memiliki ketertarikan di dunia teknologi seperti pemrograman, gadgets, dan konten yang membahas tentang teknologi.
-
-- 🌱 Saya senang belajar tentang Mobile Apps (Android) dan OpenCV Python
-- 💬 boleh discuss tentang pemrograman mobile (Android) ataupun OpenCV Python :)
-- 📫 Kenalan yuk: <a href="mailto:gunadermawan.official@gmail..com">gunadermawan.official.com</a>
+over 1 year of experience in native Android development using kotlin and also java. As a mobile developer, I am experienced in the MVVM Clean Architecture pattern, using retrofit as a REST API Client, CI/CD Pipeline for better development, understanding fundamentals android development, and using git as a collaboration platform with other people for building projects, Personally, I am someone who commits to my responsibility, keep learning and trying new things, easily adapts to new environments, and also keep humble with everyone, in spare time, I am created learning videos in my YouTube channel for sharing about programming and everything related to it.
 
   <a href="https://www.linkedin.com/in/guna-d-57554212b/" target="_blank"><img align="left" alt="Guna Dermawan | LinkedIn" width="22px" src="https://github.com/reski-mulud-muchamad/reski-mulud-muchamad/blob/main/logo-svg/linkedin-icon.svg" />
   <a href="https://www.facebook.com/guna.dermawan.3/" target="_blank"><img align="left" alt="Guna Dermawan | Facebook" width="22px" src="https://github.com/reski-mulud-muchamad/reski-mulud-muchamad/blob/main/logo-svg/facebook.svg" />
