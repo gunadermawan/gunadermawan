@@ -8,9 +8,7 @@ over 1 year of experience in native Android development using kotlin and also ja
   <a href="mailto:gunadermawan.official@gmail..com" target="_blank"><img align="left" alt="Hubungi Saya" width="22px" src="https://github.com/reski-mulud-muchamad/reski-mulud-muchamad/blob/main/logo-svg/google-gmail.svg" /></a>
   <a href="https://t.me/gunadermawan" target="_blank"><img align="left" alt="Guna Dermawan | Telegram" width="22px" src="https://github.com/reski-mulud-muchamad/reski-mulud-muchamad/blob/main/logo-svg/telegram.svg" />
   <br>
-  <br>
 
-    <p align="left">
 <a href="https://github.com/gunadermawan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gunadermawan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>  
